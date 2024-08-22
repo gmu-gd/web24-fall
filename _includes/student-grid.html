@@ -1,0 +1,9 @@
+{% for post in site.categories.student reversed%}
+  <article class="student">
+    {% if post.img == true %}
+      <a href="{{ post.link | absolute_url }}"><img src="{{ site.baseurl }}/assets/img/{{post.title}}.png" alt="{{post.title}}'s name in a typeface they chose to represent themselves."></a>
+    {% elsif post.img == false %}
+      <a href="{{ post.link | absolute_url }}"><p>{{ post.title }}</p></a>
+    {% endif %}
+  </article>
+{% endfor %}
