@@ -7,12 +7,12 @@ This schedule maps out what we are covering in class each week and what work we 
 
 If you want to know what is due for next class, [check here]({{ site.baseurl }}/due).
 
-### January 24 &mdash; Week 1
-In our first week we will review the syllabus, get our programs set up, go through some XD tips, and test our HTML and CSS knowledge.
+### August 29 &mdash; Week 1
+In our first week we will review the syllabus, get our programs set up, go through some Figma tips, and test our HTML and CSS knowledge.
 
 #### Lessons
 * 1.1: Introduction
-* 1.2: XD Basics
+* 1.2: Figma Basics
 * HTML &amp; CSS Test
 
 #### Starting
@@ -20,11 +20,12 @@ In our first week we will review the syllabus, get our programs set up, go throu
 * P1: [Tell a Story]({{ site.baseurl }}/projects/p1)
 
 #### Resources
+* _Figma:_ [Figma Learn](https://help.figma.com/hc/en-us/categories/360002051613-Get-started)
 * _Adobe:_ [Get Started with Adobe XD: Design.](https://www.adobe.com/products/xd/learn/get-started-xd-design.html)
 
 ---
 
-### January 31 &mdash; Week 2
+### September 5 &mdash; Week 2
 The ability to create and interactive prototype of a website is an incredibly powerful tool for a designer. It is also important for designers to understand accessibility as it relates to the web. We will cover both these topics this week along with reviewing HTML basics.
 
 #### Lessons
@@ -50,7 +51,7 @@ The ability to create and interactive prototype of a website is an incredibly po
 
 ---
 
-### February 7 &mdash; Week 3
+### September 12 &mdash; Week 3
 We will continue exploring the possibilities of prototyping in XD and continue reviewing HTML and CSS basics.
 
 #### Lessons
@@ -66,7 +67,7 @@ We will continue exploring the possibilities of prototyping in XD and continue r
 
 ---
 
-### February 14 &mdash; Week 4
+### September 19 &mdash; Week 4
 A website can't exist without links and this week we will refresh our memories of coding and styling links. We will also talk about responsive design and how responsive design is implemented in code through media queries.
 
 #### Lessons
@@ -84,7 +85,7 @@ A website can't exist without links and this week we will refresh our memories o
 
 ---
 
-### February 21 &mdash; Week 5
+### September 26 &mdash; Week 5
 Continuing on the HTML and CSS path we are talking about web typography and forms this week. We are also reviewing the CSS box model.
 
 #### Lessons
@@ -108,12 +109,12 @@ Continuing on the HTML and CSS path we are talking about web typography and form
 
 ---
 
-### February 28 &mdash; Week 6
+### October 3 &mdash; Week 6
 A general review on some coding and design topics covered in previous weeks.
 
 ---
 
-### March 7 &mdash; Week 7
+### October 10 &mdash; Week 7
 This week we will focus on wireframes.
 
 #### Lessons
@@ -121,9 +122,8 @@ This week we will focus on wireframes.
 
 #### Starting
 <!-- * E7: Reverse Wireframe -->
-* E7: [Reverse Wireframe]({{ site.baseurl }}/projects#e7)
-<!-- * E7: Landing Page -->
-* E8: [Landing Page]({{ site.baseurl }}/projects#e7)
+* E8: [Reverse Wireframe]({{ site.baseurl }}/projects#e8)
+* E7: [Landing Page]({{ site.baseurl }}/projects#e7)
 
 #### Digital References
 * _usability.gov:_ [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)
@@ -136,12 +136,12 @@ This week we will focus on wireframes.
 
 ---
 
-### March 14 &mdash; Week 8
+### October 17 &mdash; Week 8
 No class, Spring Break!
 
 ---
 
-### March 21 &mdash; Week 9
+### October 24 &mdash; Week 9
 This week is a catch up week. We will look at the progress on P2 but otherwise it is a time for you to work in class and make sure you are all caught up on projects and exercises.
 
 #### Lessons
@@ -149,17 +149,14 @@ This week is a catch up week. We will look at the progress on P2 but otherwise i
 
 ---
 
-### March 28 &mdash; Week 10
+### October 31 &mdash; Week 10
 People being able to use the sites we design is an important consideration while designing. This week we will start our conversation on usability for the web.
 
 #### Lessons
 * 7.1: Usability 1
 
 #### Starting
-<!-- * E9: Not So Usable -->
 * E9: [Not So Usable]({{ site.baseurl }}/projects#e9)
-<!-- * E8: Flexbox Layouts -->
-<!-- * E8: [Flexbox Layouts]({{ site.baseurl }}/projects#e8) -->
 
 #### Digital References
 * _Steve Schoger:_ [Little UI Details](https://twitter.com/i/events/880688233641848832)
@@ -169,86 +166,52 @@ People being able to use the sites we design is an important consideration while
 
 ---
 
-### April 4 &mdash; Week 11
+### November 7 &mdash; Week 11
 A continuation of our discussion on usability.
 
 #### Lessons
 * 8.1: Usability 2
-<!-- * 8.2: CSS Grid 1 -->
 
 #### Starting
-<!-- * E10: 10 Usability Heuristics -->
 * E10: [10 Usability Heuristics]({{ site.baseurl }}/projects#e10)
 
 ---
 
-### April 11 &mdash; Week 12
+### November 14 &mdash; Week 12
 In class group meetings to review Project 2.
-
-<!-- #### Lessons -->
-
-
-<!-- #### Starting -->
-<!-- * E9: Grid Layouts -->
-<!-- * E9: [Grid Layouts]({{ site.baseurl }}/projects#e9) -->
 
 #### Digital References
 * [Grid Garden](https://cssgridgarden.com/)
 
 ---
 
-### April 18 &mdash; Week 13
+### November 21 &mdash; Week 13
 In class workshop and critiques.
 
 #### Lessons
 * Design Thinking Process
 
 #### Starting
-<!-- * E11: Design a Hat -->
 * E11: [Design a Hat]({{ site.baseurl }}/projects#e11)
-<!-- * E10: The Printed Web -->
-<!-- * E10: [The Printed Web]({{ site.baseurl }}/projects#e10) -->
 
 #### Digital References
 * _Sympli:_ [CSS Media for Printable Webpages](https://sympli.io/blog/a-quick-guide-to-css-for-printable-webpages/)
 
 ---
 
-### April 25 &mdash; Week 14
+### November 28 &mdash; Week 14
 Continuing our in class workshop and critiques.
 
-<!-- #### Lessons -->
-<!-- * 11.1: CSS Animations -->
-<!-- * E11: Make it Move. -->
-<!-- * E11: [Make it Move({{ site.baseurl }}/projects#e11) -->
 
 #### Digital Resources
 * _WDN Web Docs:_ [Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
 ---
 
-### May 2 &mdash; Week 15
+### December 5 &mdash; Week 15
 Early due date and review of work.
 
 ---
 
-### May 16 &mdash; Week 16
+### December 12 &mdash; Week 16
 Everything due.
-
-<!-- ### April 25 &mdash; Week 14
-Javascript allows us to bring more interaction and other features to our websites that HTML and CSS cannot. We will cover the basics of Javascript and look at how we can integrate plugins to our sites.
-
-#### Lessons
-* 12.1: Javascript and jQuery Basics
-* 12.2: Plugins
-
-#### Starting
-* E12: Plug it In
-* E12: [Plug it In]({{ site.baseurl }}/projects#e12)
-
-#### Digital Resources
-* _WDN Web Docs:_ [Javascript, Dynamic Client-side Scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-* [Learn Programming](https://learnprogramming.online/)
-* [Learn Javascript](https://learnjavascript.online/)
-
--->
