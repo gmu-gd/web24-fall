@@ -417,7 +417,7 @@ h1, h2, h3, h4, h5 {
 h1 {
   font-family: $font-stack-bighead;
   margin-top: 0;
-  font-size: 20vw;
+  font-size: 16vw;
   line-height: .9em;
   padding: 10px 0 0 0;
   margin-left: -6px;
@@ -872,7 +872,7 @@ p#warning {
 }
 @media only screen and (min-width: 630px) {
   h1 {
-    font-size: 20vw;
+    font-size: 17vw;
     line-height: .9em;
     padding: 20px 0 0 0;
     margin-left: -6px;
@@ -919,7 +919,7 @@ p#warning {
     width: 75%;
   }
   h1 {
-    font-size: 20vw;
+    font-size: 17vw;
     line-height: .9em;
     padding: 20px 0 0 0;
     margin-left: -9px;
@@ -969,7 +969,7 @@ p#warning {
       grid-column: span 4;
     }
     h1 {
-      font-size: 12vw;
+      font-size: 10vw;
       line-height: .9em;
       padding: 20px 0 0 0;
       margin-left: -7px;
@@ -1003,7 +1003,7 @@ p#warning {
       grid-column: span 4;
     }
     h1 {
-      font-size: 13vw;
+      font-size: 11vw;
       line-height: .9em;
       padding: 20px 0 0 0;
       margin-left: -10px;
@@ -1021,7 +1021,7 @@ p#warning {
       padding-right: 6.25vw;
     }
     h1 {
-      font-size: 10vw;
+      font-size: 8vw;
     }
 }
 
