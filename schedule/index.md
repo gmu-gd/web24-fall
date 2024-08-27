@@ -11,8 +11,8 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 In our first week we will review the syllabus, get our programs set up, go through some Figma tips, and test our HTML and CSS knowledge.
 
 #### Lessons
-* 1.1: Introduction
-* 1.2: Figma Basics
+* Overview
+* Figma Basics
 * HTML &amp; CSS Test
 
 #### Starting
@@ -29,17 +29,19 @@ In our first week we will review the syllabus, get our programs set up, go throu
 The ability to create and interactive prototype of a website is an incredibly powerful tool for a designer. It is also important for designers to understand accessibility as it relates to the web. We will cover both these topics this week along with reviewing HTML basics.
 
 #### Lessons
-* 2.1: Plugins and Prototyping in XD
-* 2.2: Accessibility in Web Design
+* Plugins and Prototyping in Figma
+* Accessibility in Web Design
 
 #### Starting
-* E2: [Linking in XD]({{ site.baseurl }}/projects#e2)
+* E2: [Linking in Figma]({{ site.baseurl }}/projects#e2)
 
 #### Digital References
-* _Adobe:_ [Adobe XD Get Started: Components and libraries.](https://www.adobe.com/products/xd/learn/get-started-xd-components-libraries.html)
+* _Figma:_ [Prototyping](https://www.figma.com/resource-library/prototyping/)
+* _Figma:_ [Guide to Components](https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Figma)
+* _Adobe:_ [Adobe XD Get Started: Components and Libraries.](https://www.adobe.com/products/xd/learn/get-started-xd-components-libraries.html)
 * _Adobe:_ [Get Started with Adobe XD: Prototype.](https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html)
-* _Interneting is Hard:_ [Introduction](https://www.internetingishard.com/html-and-css/introduction/)
-* _Interneting is Hard:_ [Basic Web Pages](https://www.internetingishard.com/html-and-css/basic-web-pages/)
+* _Interneting is Hard:_ [Introduction](https://internetingishard.netlify.app/html-and-css/introduction/)
+* _Interneting is Hard:_ [Basic Web Pages](https://internetingishard.netlify.app/html-and-css/basic-web-pages/)
 * [W3C Web Accessibility Initiative](https://www.w3.org/WAI/)
 * [Wai-Aria 1.1 Cheat Sheet](https://www.digitala11y.com/wai-aria-1-1-cheat-sheet/)
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
@@ -52,17 +54,18 @@ The ability to create and interactive prototype of a website is an incredibly po
 ---
 
 ### September 12 &mdash; Week 3
-We will continue exploring the possibilities of prototyping in XD and continue reviewing HTML and CSS basics.
+We will continue exploring the possibilities of prototyping in Figma and continue reviewing HTML and CSS basics.
 
 #### Lessons
-* 3.1: Prototyping in XD (continued)
-* 3.2: CSS Basics
-* 3.3: Classes and Ids
+* Prototyping in Figma (continued)
+* CSS Basics
+* Classes and IDs
 
 #### Starting
-* E3: [Hover and Animations in XD]({{ site.baseurl }}/projects#e3)
+* E3: [Hover and Animations in Figma]({{ site.baseurl }}/projects#e3)
 
 #### Digital References
+* _Figma:_ [Prototyping](https://www.figma.com/resource-library/prototyping/)
 * _Adobe:_ [Get Started with Adobe XD: Prototype.](https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html)
 
 ---
@@ -71,17 +74,17 @@ We will continue exploring the possibilities of prototyping in XD and continue r
 A website can't exist without links and this week we will refresh our memories of coding and styling links. We will also talk about responsive design and how responsive design is implemented in code through media queries.
 
 #### Lessons
-* 4.1: Writing and Styling Links
-* 4.2: Responsive Design
-* 4.3: Media Queries
+* Writing and Styling Links
+* Responsive Design
+* Media Queries
 
 #### Starting
-* E4: [Valentine's Day Card]({{ site.baseurl }}/projects#e4)
+* E4: [Birthday Card]({{ site.baseurl }}/projects#e4)
 * E5: [Linking Links]({{ site.baseurl }}/projects#e5)
 
 #### Digital References
-* _Interneting is Hard:_ [Links and Images](https://www.internetingishard.com/html-and-css/links-and-images/)
-* _Interneting is Hard:_ [Responsive Design](https://www.internetingishard.com/html-and-css/responsive-design/)
+* _Interneting is Hard:_ [Links and Images](https://internetingishard.netlify.app/html-and-css/links-and-images/)
+* _Interneting is Hard:_ [Responsive Design](https://internetingishard.netlify.app/html-and-css/responsive-design/)
 
 ---
 
@@ -89,18 +92,17 @@ A website can't exist without links and this week we will refresh our memories o
 Continuing on the HTML and CSS path we are talking about web typography and forms this week. We are also reviewing the CSS box model.
 
 #### Lessons
-* 5.1: Web Typography
-* 5.2: Forms
-* 5.3: CSS Box Model
+* Web Typography
+* Forms
+* CSS Box Model
 
 #### Starting
 * E6: [Form Redesign]({{ site.baseurl }}/projects#e6)
-* P2: [For Sale]({{ site.baseurl }}/projects/p2)
 
 #### Digital References
-* _Interneting is Hard:_ [Web Typography](https://www.internetingishard.com/html-and-css/web-typography/)
-* _Interneting is Hard:_ [CSS Box Model](https://www.internetingishard.com/html-and-css/css-box-model/)
-* _Interneting is Hard:_ [Forms](https://www.internetingishard.com/html-and-css/forms/)
+* _Interneting is Hard:_ [Web Typography](https://internetingishard.netlify.app/html-and-css/web-typography/)
+* _Interneting is Hard:_ [CSS Box Model](https://internetingishard.netlify.app/html-and-css/css-box-model/)
+* _Interneting is Hard:_ [Forms](https://internetingishard.netlify.app/html-and-css/forms/)
 * _Adobe:_ [Prototype](https://www.adobe.com/products/xd/learn/prototype.html)
 * _Adobe:_ [Design a Sign Up Form](https://www.adobe.com/products/xd/learn/design-systems/components/design-a-sign-up-form.html)
 * _Adobe:_ [Common Use Cases for Component States](https://www.adobe.com/products/xd/learn/prototype/component-states/component-states-common-use-cases.html)
@@ -112,36 +114,35 @@ Continuing on the HTML and CSS path we are talking about web typography and form
 ### October 3 &mdash; Week 6
 A general review on some coding and design topics covered in previous weeks.
 
+#### Starting
+* E7: [Landing Page]({{ site.baseurl }}/projects#e7)
+* P2: [For Sale]({{ site.baseurl }}/projects/p2)
+
+#### Digital References
+* _Interneting is Hard:_ [Semantic HTML](https://internetingishard.netlify.app/html-and-css/semantic-html/)
+* _Interneting is Hard:_ [Flexbox](https://internetingishard.netlify.app/html-and-css/flexbox/)
+* _Interneting is Hard:_ [Forms](https://internetingishard.netlify.app/html-and-css/forms/)
+
 ---
 
 ### October 10 &mdash; Week 7
 This week we will focus on wireframes.
 
 #### Lessons
-* 6.1: Wireframes
+* Wireframes
 
 #### Starting
-<!-- * E7: Reverse Wireframe -->
 * E8: [Reverse Wireframe]({{ site.baseurl }}/projects#e8)
-* E7: [Landing Page]({{ site.baseurl }}/projects#e7)
 
 #### Digital References
 * _usability.gov:_ [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)
 * _Balsamiq:_ [What are Wireframes?](https://balsamiq.com/learn/articles/what-are-wireframes/)
 * _Figma:_ [How to Wireframe](https://www.figma.com/blog/how-to-wireframe/)
 * _Adobe:_ [Everything You Need to Know About Wireframe Design and Prototypes](https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/)
-* _Interneting is Hard:_ [Semantic HTML](https://www.internetingishard.com/html-and-css/semantic-html/)
-* _Interneting is Hard:_ [Flexbox](https://www.internetingishard.com/html-and-css/flexbox/)
-* _Interneting is Hard:_ [Forms](https://www.internetingishard.com/html-and-css/forms/)
 
 ---
 
 ### October 17 &mdash; Week 8
-No class, Spring Break!
-
----
-
-### October 24 &mdash; Week 9
 This week is a catch up week. We will look at the progress on P2 but otherwise it is a time for you to work in class and make sure you are all caught up on projects and exercises.
 
 #### Lessons
@@ -149,7 +150,7 @@ This week is a catch up week. We will look at the progress on P2 but otherwise i
 
 ---
 
-### October 31 &mdash; Week 10
+### October 24 &mdash; Week 9
 People being able to use the sites we design is an important consideration while designing. This week we will start our conversation on usability for the web.
 
 #### Lessons
@@ -160,13 +161,13 @@ People being able to use the sites we design is an important consideration while
 
 #### Digital References
 * _Steve Schoger:_ [Little UI Details](https://twitter.com/i/events/880688233641848832)
-* _Interneting is Hard:_ [Flexbox](https://www.internetingishard.com/html-and-css/flexbox/)
+* _Interneting is Hard:_ [Flexbox](https://internetingishard.netlify.app/html-and-css/flexbox/)
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 * [Flexbox Defense](http://www.flexboxdefense.com/)
 
 ---
 
-### November 7 &mdash; Week 11
+### October 31 &mdash; Week 10
 A continuation of our discussion on usability.
 
 #### Lessons
@@ -177,7 +178,7 @@ A continuation of our discussion on usability.
 
 ---
 
-### November 14 &mdash; Week 12
+### November 7 &mdash; Week 11
 In class group meetings to review Project 2.
 
 #### Digital References
@@ -185,7 +186,7 @@ In class group meetings to review Project 2.
 
 ---
 
-### November 21 &mdash; Week 13
+### November 14 &mdash; Week 12
 In class workshop and critiques.
 
 #### Lessons
@@ -199,12 +200,17 @@ In class workshop and critiques.
 
 ---
 
-### November 28 &mdash; Week 14
+### November 21 &mdash; Week 13
 Continuing our in class workshop and critiques.
-
 
 #### Digital Resources
 * _WDN Web Docs:_ [Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+
+
+---
+
+### November 28 &mdash; Week 14
+No class, Thanksgiving break.
 
 ---
 
