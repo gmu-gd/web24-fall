@@ -3,7 +3,7 @@ layout: interior
 title: Syllabus
 ---
 ### General
-This is the syllabus for the _Fall 2022_ class of _AVT 415: Web Design and Usability (3 credits)_ and _AVT 619: Advanced Web Design (3 credits)_. The instructor is _Michael McDermott_, he can be reached by email at _mmcderm8 at gmu dot edu_ and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Monday to Thursday from 1:15&ndash;2:45pm and 8&ndash;9pm or by appointment.
+This is the syllabus for the _Fall 2024_ class of _AVT 415: Web Design and Usability (3 credits)_. The instructor is _Michael McDermott_, he can be reached by email at _mmcderm8 at gmu dot edu_ and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Monday to Thursday from 1:15&ndash;2:45pm and 8&ndash;9pm or by appointment.
 
 [Download a PDF version]({{ site.baseurl }}/assets/files/AVT415-Syllabus-Fall2024.pdf)
 
