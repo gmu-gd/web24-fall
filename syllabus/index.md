@@ -73,6 +73,9 @@ The exercises are graded using one of two basic rubrics shown below. The rubric 
 #### projects  (50%)
 Each project will generate two different grades. One grade will be based on your ability to submit the required, weekly checkpoints for the project. These weekly checkpoints use a simple rubric based on your effort, timeliness, improvement, and completion. The second grade will be based on the final project you submit and has a more extensive rubric. At the end of the semester you will have 4 total project grades that are all weighted equally for this 50%.
 
+### Late Work
+Late work will be accepted for three weeks after a deadline with the exception of the final project which will be due at the end of the semester. There is a section on the rubrics showing how late work is factored into the assignment grade. 
+
 #### rubrics
 Rubrics are used to grade exercises, projects, and checkpoints. The rubrics are available in the PDF syllabus and attached to the assignments on Canvas.
 
