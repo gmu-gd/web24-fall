@@ -96,10 +96,10 @@ You will need to take an active role in both the presentation and discussion of 
 Visual Voices is a year-long series of lectures by artists, art historians and others about contemporary art and art practice. Visual Voices lectures are held on four Thursday evenings from 4:45–6:30 pm, more details at [masonexhibitions.org](https://www.masonexhibitions.org).
 
 <ul class="date-list">
-<li><span class="date">Sept 12:</span> Wanda Raimundi-Ortiz</li>
-<li><span class="date">Sept 26:</span> Laurel Nakadate</li>
-<li><span class="date">Oct 24:</span> Paul Rucker</li>
-<li><span class="date">Nov 7:</span> Mario Rossero</li>
+<li><span class="date">Sept 12:</span> Kei Ito</li>
+<li><span class="date">Sept 26:</span> Nora Krug</li>
+<li><span class="date">Oct 24:</span> Andrii Dubchak</li>
+<li><span class="date">Nov 7:</span> Colette Fu</li>
 </ul>
 
 ### School of Art Social Media Accounts
