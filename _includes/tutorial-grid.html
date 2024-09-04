@@ -1,7 +1,7 @@
 {% if site.categories.tutorials == null %}
   <p>The first tutorial will be posted on the first day of class.</p>
 {% else %}
-  {% for post in site.categories.tutorials %}
+  {% for post in site.categories.tutorials reversed %}
   <article class="tutorial">
     <h5 class="number"> {{ post.subhead }}</h5>
     <a href="{{ post.url | relative_url }}"><h2 class="event"> {{ post.title }} </h2></a>
