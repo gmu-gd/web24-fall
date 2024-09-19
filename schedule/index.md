@@ -67,6 +67,8 @@ We will continue exploring the possibilities of prototyping in Figma and continu
 #### Digital References
 * _Figma:_ [Prototyping](https://www.figma.com/resource-library/prototyping/)
 * _Adobe:_ [Get Started with Adobe XD: Prototype.](https://www.adobe.com/products/xd/learn/get-started-xd-prototype.html)
+* _Youtube:_ [Create a Functional Hamburger Menu Navigation in Figma](https://www.youtube.com/watch?v=dr6C_LK1U_Y)
+* _Youtube:_ [Hamburger Menu Items as Anchors](https://www.youtube.com/watch?v=1Z1FZ4HwQuE)
 
 ---
 
