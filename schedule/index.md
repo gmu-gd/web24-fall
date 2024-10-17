@@ -128,6 +128,11 @@ A general review on some coding and design topics covered in previous weeks.
 ---
 
 ### October 10 &mdash; Week 7
+No class this week. Use it as a catch up week to make sure you are all caught up on projects and exercises.
+
+---
+
+### October 17 &mdash; Week 8
 This week we will focus on wireframes.
 
 #### Lessons
@@ -142,13 +147,6 @@ This week we will focus on wireframes.
 * _Figma:_ [How to Wireframe](https://www.figma.com/blog/how-to-wireframe/)
 * _Adobe:_ [Everything You Need to Know About Wireframe Design and Prototypes](https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/)
 
----
-
-### October 17 &mdash; Week 8
-This week is a catch up week. We will look at the progress on P2 but otherwise it is a time for you to work in class and make sure you are all caught up on projects and exercises.
-
-#### Lessons
-* Individual meetings
 
 ---
 
